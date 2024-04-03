@@ -1,7 +1,7 @@
 # Socket.IO - Ejemplo
 
 Este es un ejemplo básico de una aplicación de chat utilizando **Socket.IO**.  
-La aplicación fue creada en base al tutorial que se describe en la propia página de [Socket.IO](https://socket.io/docs/v4/tutorial/introduction).
+La aplicación fue creada en base al tutorial que se describe en la propia página de <a href="https://socket.io/docs/v4/tutorial/introduction" target="_blank">Socket.IO</a>.
 
 ## Iniciar aplicación
 
@@ -40,12 +40,12 @@ El número de pestañas puede variar dependiendo de la cantidad de núcleos que 
 Los siguientes paquetes son necesarios para este ejemplo de aplicación de char básica:
 
 - **express**  
-  `npm install express`
+  Instalación: `npm install express`
 - **socket.io**  
-  `npm install socket.io`
+  Instalación: `npm install socket.io`
 - **sqlite**  
-  `npm install sqlite`
+  Instalación: `npm install sqlite`
 - **sqlite3**  
-  `npm install sqlite3`
+  Instalación: `npm install sqlite3`
 - **@socket.io/cluster-adapter**  
-  `npm install @socket.io/cluster-adapter`
+  Instalación: `npm install @socket.io/cluster-adapter`
